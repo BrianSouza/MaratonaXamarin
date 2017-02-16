@@ -1,0 +1,12 @@
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\bin\iPhone\Debug\Semana3Licao3.exe
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\bin\iPhone\Debug\Semana3Licao3.pdb
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhone\Debug\optimized\Entitlements.plist
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhone\Debug\optimized\
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhone\Debug\Semana3Licao3.csprojResolveAssemblyReference.cache
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhone\Debug\Semana3Licao3.exe
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhone\Debug\Semana3Licao3.pdb
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhone\Debug\Semana3Licao3.exe.mdb
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\bin\iPhone\Debug\Semana3Licao3.exe.mdb

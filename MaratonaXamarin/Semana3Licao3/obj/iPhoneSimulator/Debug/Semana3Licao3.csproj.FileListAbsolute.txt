@@ -1,0 +1,11 @@
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\bin\iPhoneSimulator\Debug\Semana3Licao3.exe
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\bin\iPhoneSimulator\Debug\Semana3Licao3.pdb
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhoneSimulator\Debug\Semana3Licao3.exe
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhoneSimulator\Debug\Semana3Licao3.pdb
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\obj\iPhoneSimulator\Debug\Semana3Licao3.exe.mdb
+C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Semana3Licao3\bin\iPhoneSimulator\Debug\Semana3Licao3.exe.mdb
