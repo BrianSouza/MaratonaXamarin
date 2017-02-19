@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo3Licao3", "Modulo3Licao3\Modulo3Licao3.csproj", "{9DF8F9F4-F088-4AC2-9AFD-D13D0A602875}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo2Licao1", "Modulo2Licao1\Modulo2Licao1.csproj", "{4E51DD26-3799-4A97-8422-A0B5C73614A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modulo2Licao1e2", "Modulo2Licao1\Modulo2Licao1e2.csproj", "{4E51DD26-3799-4A97-8422-A0B5C73614A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
