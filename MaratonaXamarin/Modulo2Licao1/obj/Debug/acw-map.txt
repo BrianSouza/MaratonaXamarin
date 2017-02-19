@@ -2,3 +2,7 @@ Modulo2Licao1.MainActivity, Modulo2Licao1;md547e39afb72365cda15510b0dcd4528c2.Ma
 Modulo2Licao1.MainActivity, Modulo2Licao1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md547e39afb72365cda15510b0dcd4528c2.MainActivity
 Modulo2Licao1.MainActivity;md547e39afb72365cda15510b0dcd4528c2.MainActivity
 modulo2licao1.MainActivity;md547e39afb72365cda15510b0dcd4528c2.MainActivity
+Modulo2Licao1.Page2Activity, Modulo2Licao1;md547e39afb72365cda15510b0dcd4528c2.Page2Activity
+Modulo2Licao1.Page2Activity, Modulo2Licao1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md547e39afb72365cda15510b0dcd4528c2.Page2Activity
+Modulo2Licao1.Page2Activity;md547e39afb72365cda15510b0dcd4528c2.Page2Activity
+modulo2licao1.Page2Activity;md547e39afb72365cda15510b0dcd4528c2.Page2Activity
