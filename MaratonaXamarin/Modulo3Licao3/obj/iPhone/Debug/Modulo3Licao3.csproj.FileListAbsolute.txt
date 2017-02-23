@@ -1,0 +1,11 @@
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\bin\iPhone\Debug\Modulo3Licao3.exe
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\bin\iPhone\Debug\Modulo3Licao3.pdb
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\obj\iPhone\Debug\optimized\
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\obj\iPhone\Debug\Modulo3Licao3.csprojResolveAssemblyReference.cache
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\obj\iPhone\Debug\Modulo3Licao3.exe
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\obj\iPhone\Debug\Modulo3Licao3.pdb
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\obj\iPhone\Debug\Modulo3Licao3.exe.mdb
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo3Licao3\bin\iPhone\Debug\Modulo3Licao3.exe.mdb

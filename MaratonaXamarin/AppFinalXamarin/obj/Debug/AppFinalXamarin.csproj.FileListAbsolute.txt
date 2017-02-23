@@ -51,7 +51,6 @@ C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamari
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\res\drawable-xxhdpi\ic_menu_cut_holo_dark.png
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\res\drawable-xxhdpi\ic_menu_paste_holo_dark.png
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\res\drawable-xxhdpi\ic_menu_search_holo_dark.png
-C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\res\menu\edit_menus.xml
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\R.cs.flag
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\uploadflags.txt
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\bin\Debug\AppFinalXamarin.dll.mdb
@@ -78,5 +77,6 @@ C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamari
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\AppFinalXamarin.csprojResolveAssemblyReference.cache
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\obj\Debug\AppFinalXamarin.dll.mdb
 C:\Users\brian.souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\AppFinalXamarin\bin\Debug\AppFinalXamarin.dll.mdb

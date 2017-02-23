@@ -1843,23 +1843,8 @@ namespace AppFinalXamarin
 			// aapt resource value: 0x7f0a005d
 			public const int media_actions = 2131361885;
 			
-			// aapt resource value: 0x7f0a006f
-			public const int menu_copy = 2131361903;
-			
 			// aapt resource value: 0x7f0a006e
-			public const int menu_cut = 2131361902;
-			
-			// aapt resource value: 0x7f0a0071
-			public const int menu_edit = 2131361905;
-			
-			// aapt resource value: 0x7f0a0070
-			public const int menu_paste = 2131361904;
-			
-			// aapt resource value: 0x7f0a0073
-			public const int menu_preferences = 2131361907;
-			
-			// aapt resource value: 0x7f0a0072
-			public const int menu_save = 2131361906;
+			public const int menu_novo = 2131361902;
 			
 			// aapt resource value: 0x7f0a001c
 			public const int middle = 2131361820;
@@ -2152,67 +2137,70 @@ namespace AppFinalXamarin
 			public const int abc_select_dialog_material = 2130903066;
 			
 			// aapt resource value: 0x7f03001b
-			public const int Main = 2130903067;
+			public const int AddCliente = 2130903067;
 			
 			// aapt resource value: 0x7f03001c
-			public const int notification_action = 2130903068;
+			public const int Main = 2130903068;
 			
 			// aapt resource value: 0x7f03001d
-			public const int notification_action_tombstone = 2130903069;
+			public const int notification_action = 2130903069;
 			
 			// aapt resource value: 0x7f03001e
-			public const int notification_media_action = 2130903070;
+			public const int notification_action_tombstone = 2130903070;
 			
 			// aapt resource value: 0x7f03001f
-			public const int notification_media_cancel_action = 2130903071;
+			public const int notification_media_action = 2130903071;
 			
 			// aapt resource value: 0x7f030020
-			public const int notification_template_big_media = 2130903072;
+			public const int notification_media_cancel_action = 2130903072;
 			
 			// aapt resource value: 0x7f030021
-			public const int notification_template_big_media_custom = 2130903073;
+			public const int notification_template_big_media = 2130903073;
 			
 			// aapt resource value: 0x7f030022
-			public const int notification_template_big_media_narrow = 2130903074;
+			public const int notification_template_big_media_custom = 2130903074;
 			
 			// aapt resource value: 0x7f030023
-			public const int notification_template_big_media_narrow_custom = 2130903075;
+			public const int notification_template_big_media_narrow = 2130903075;
 			
 			// aapt resource value: 0x7f030024
-			public const int notification_template_custom_big = 2130903076;
+			public const int notification_template_big_media_narrow_custom = 2130903076;
 			
 			// aapt resource value: 0x7f030025
-			public const int notification_template_icon_group = 2130903077;
+			public const int notification_template_custom_big = 2130903077;
 			
 			// aapt resource value: 0x7f030026
-			public const int notification_template_lines_media = 2130903078;
+			public const int notification_template_icon_group = 2130903078;
 			
 			// aapt resource value: 0x7f030027
-			public const int notification_template_media = 2130903079;
+			public const int notification_template_lines_media = 2130903079;
 			
 			// aapt resource value: 0x7f030028
-			public const int notification_template_media_custom = 2130903080;
+			public const int notification_template_media = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int notification_template_part_chronometer = 2130903081;
+			public const int notification_template_media_custom = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int notification_template_part_time = 2130903082;
+			public const int notification_template_part_chronometer = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int select_dialog_item_material = 2130903083;
+			public const int notification_template_part_time = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int select_dialog_multichoice_material = 2130903084;
+			public const int select_dialog_item_material = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int select_dialog_singlechoice_material = 2130903085;
+			public const int select_dialog_multichoice_material = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int support_simple_spinner_dropdown_item = 2130903086;
+			public const int select_dialog_singlechoice_material = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int toolbar = 2130903087;
+			public const int support_simple_spinner_dropdown_item = 2130903087;
+			
+			// aapt resource value: 0x7f030030
+			public const int toolbar = 2130903088;
 			
 			static Layout()
 			{
@@ -2228,10 +2216,7 @@ namespace AppFinalXamarin
 		{
 			
 			// aapt resource value: 0x7f0c0000
-			public const int edit_menus = 2131492864;
-			
-			// aapt resource value: 0x7f0c0001
-			public const int top_menus = 2131492865;
+			public const int top_menus = 2131492864;
 			
 			static Menu()
 			{

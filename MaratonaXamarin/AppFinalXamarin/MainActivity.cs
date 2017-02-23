@@ -4,10 +4,11 @@ using Android.OS;
 using Android.Views;
 using Android.Support.V7.App;
 using Toolbar = Android.Support.V7.Widget.Toolbar;
+using Android.Content;
 
 namespace AppFinalXamarin
 {
-    [Activity(Label = "AppFinalXamarin", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Maratona Xamarin", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : AppCompatActivity
     {
         protected override void OnCreate(Bundle bundle)
@@ -19,7 +20,7 @@ namespace AppFinalXamarin
             
             var toolbar = FindViewById<Toolbar>(Resource.Id.toolbar);
             SetSupportActionBar(toolbar);
-            SupportActionBar.Title = "My AppCompat Toolbar";
+            SupportActionBar.Title = "Maratona Xamarin";
         }
         public override bool OnCreateOptionsMenu(IMenu menu)
         {
@@ -29,8 +30,8 @@ namespace AppFinalXamarin
 
         public override bool OnOptionsItemSelected(IMenuItem item)
         {
-            Toast.MakeText(this, "Action selected: " + item.TitleFormatted,
-                ToastLength.Short).Show();
+            if (item.ItemId == Resource.Id.menu_novo)
+                Intent objIntent = new Intent(this,typeof(AddCliente));
             return base.OnOptionsItemSelected(item);
         }
 

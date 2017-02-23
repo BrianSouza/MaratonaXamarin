@@ -1894,12 +1894,7 @@ containing a value of this type.
         public static final int listMode=0x7f0a0009;
         public static final int list_item=0x7f0a002b;
         public static final int media_actions=0x7f0a005d;
-        public static final int menu_copy=0x7f0a006f;
-        public static final int menu_cut=0x7f0a006e;
-        public static final int menu_edit=0x7f0a0071;
-        public static final int menu_paste=0x7f0a0070;
-        public static final int menu_preferences=0x7f0a0073;
-        public static final int menu_save=0x7f0a0072;
+        public static final int menu_novo=0x7f0a006e;
         public static final int middle=0x7f0a001c;
         public static final int multiply=0x7f0a0014;
         public static final int never=0x7f0a0020;
@@ -2015,8 +2010,7 @@ containing a value of this type.
         public static final int toolbar=0x7f03002f;
     }
     public static final class menu {
-        public static final int edit_menus=0x7f0c0000;
-        public static final int top_menus=0x7f0c0001;
+        public static final int top_menus=0x7f0c0000;
     }
     public static final class string {
         public static final int ApplicationName=0x7f050022;
