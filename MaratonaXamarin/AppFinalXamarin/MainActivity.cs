@@ -31,7 +31,11 @@ namespace AppFinalXamarin
         public override bool OnOptionsItemSelected(IMenuItem item)
         {
             if (item.ItemId == Resource.Id.menu_novo)
-                Intent objIntent = new Intent(this,typeof(AddCliente));
+            {
+                Intent objIntent = new Intent(this, typeof(AddClienteActivity));
+                StartActivity(objIntent);
+            }
+
             return base.OnOptionsItemSelected(item);
         }
 

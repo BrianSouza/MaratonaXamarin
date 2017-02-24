@@ -36,4 +36,3 @@ C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo2Licao1\
 C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo2Licao1\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo2Licao1\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo2Licao1\obj\Debug\Modulo2Licao1.dll.mdb
-C:\Users\Brian Souza\Source\Repos\MaratonaXamarin\MaratonaXamarin\Modulo2Licao1\bin\Debug\Modulo2Licao1.dll.mdb
