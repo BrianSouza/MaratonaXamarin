@@ -1933,8 +1933,8 @@ containing a value of this type.
         public static final int showCustom=0x7f0a000f;
         public static final int showHome=0x7f0a0010;
         public static final int showTitle=0x7f0a0011;
+        public static final int spEstado=0x7f0a0068;
         public static final int spacer=0x7f0a002f;
-        public static final int spinner1=0x7f0a0068;
         public static final int split_action_bar=0x7f0a0007;
         public static final int src_atop=0x7f0a0016;
         public static final int src_in=0x7f0a0017;

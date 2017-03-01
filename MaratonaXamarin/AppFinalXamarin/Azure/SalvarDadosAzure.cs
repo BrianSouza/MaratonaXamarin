@@ -16,13 +16,12 @@ namespace AppFinalXamarin.Azure
 
         public async void SalvarClienteNoAzure()
         {
-            Task salvoTask;
             try
             {
                 CurrentPlatform.Init();
                 await MobileService.GetTable<Clientes>().InsertAsync(_Cliente);
             }
-            catch (System.Exception )
+            catch (System.Exception ex)
             {
                 throw;
             }

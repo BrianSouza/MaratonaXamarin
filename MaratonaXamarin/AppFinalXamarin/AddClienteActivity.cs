@@ -1,9 +1,11 @@
 
+using System.Collections.Generic;
 using Android.App;
 using Android.OS;
 using Android.Support.V7.App;
 using Android.Support.V7.Widget;
 using Android.Views;
+using Android.Widget;
 using AppFinalXamarin.Azure;
 using AppFinalXamarin.Entidades;
 
@@ -29,12 +31,16 @@ namespace AppFinalXamarin
         {
             base.OnCreate(savedInstanceState);
             this.SetContentView(Resource.Layout.AddCliente);
-            var toolbar = this.FindViewById<Toolbar>(Resource.Id.toolbarAddClient);
+            var toolbar = this.FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbarAddClient);
             SetSupportActionBar(toolbar);
             SupportActionBar.SetHomeButtonEnabled(true);
             SupportActionBar.SetDisplayHomeAsUpEnabled(true);
 
             GetControles();
+
+            var lista = new List<string> {"SP","RJ" };
+            var adpt = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleSpinnerDropDownItem, lista);
+            spEstado.Adapter = adpt;
 
         }
 
@@ -63,7 +69,7 @@ namespace AppFinalXamarin
 
         public override bool OnCreateOptionsMenu(IMenu menu)
         {
-            MenuInflater.Inflate(Resource.Menu.top_menus, menu);
+            MenuInflater.Inflate(Resource.Menu.addcliente_menus, menu);
             return base.OnCreateOptionsMenu(menu);
         }
 

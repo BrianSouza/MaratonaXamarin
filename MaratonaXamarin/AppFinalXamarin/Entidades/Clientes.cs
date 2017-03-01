@@ -1,10 +1,14 @@
 
+using Microsoft.WindowsAzure.MobileServices;
 using Newtonsoft.Json;
 namespace AppFinalXamarin.Entidades
 {
     [DataTable("Clientes")]
     public class Clientes
     {
+        [JsonProperty("ID")]
+        public string ID { get; set; }
+
         [JsonProperty("RAZAO")]
         public string Razao { get; set; }
         [JsonProperty("TIPODOCUMENTO")]
